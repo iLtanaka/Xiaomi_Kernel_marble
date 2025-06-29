@@ -166,4 +166,4 @@ arch/arm/boot/dts/vendor
 sphinx_*/
 
 # Xiaomi Add
-drivers/misc/hwid/
+#drivers/misc/hwid/
